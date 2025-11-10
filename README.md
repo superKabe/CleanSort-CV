@@ -5,8 +5,6 @@ It runs real-time object detection on a live camera feed, classifies waste types
 
 ![Demo screenshot](cleansort_demo_pic.png)
 
-![Diagram](CV Pipeline Block Diagram.png)
-
 ## Tech Stack
 
 Streamlit for UI and visualization
