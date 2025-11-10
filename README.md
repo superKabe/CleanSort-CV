@@ -3,6 +3,10 @@
 Smart waste sorting app powered by Streamlit and Roboflow Workflows.
 It runs real-time object detection on a live camera feed, classifies waste types, and tracks counts per category with live insights.
 
+![Demo screenshot](cleansort_demo_pic.png)
+
+![Diagram](CV Pipeline Block Diagram.png)
+
 ## Tech Stack
 
 Streamlit for UI and visualization
